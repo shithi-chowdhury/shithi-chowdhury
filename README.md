@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shithi Chowdhury</h1>
 <h3 align="center">A passionate frontend developer and Graphics designer from Bangladesh</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shithi-chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="shithi-chowdhury" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shithi-chowdhury" alt="shithi-chowdhury" /></a> </p>
+
 
 Currently, I am working at EIC as an IT marketing Intern. I am involved with two Research and Publications in Machine learning and deep learning. previously I worked at kore as a graphic designer.
 
