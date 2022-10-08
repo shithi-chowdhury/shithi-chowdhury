@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Shithi Chowdhury
 #### A passionate frontend developer and Graphics designer from Bangladesh
-![A passionate frontend developer and Graphics designer from Bangladesh](https://github.com/shithi-chowdhury/shithi-chowdhury/blob/main/Asset%202%402x.png)
+
 
 Currently, I am working at EIC as an IT marketing Intern. I am involved with two Research and Publications in Machine learning and deep learning. previously I worked at kore as a graphic designer.
 
