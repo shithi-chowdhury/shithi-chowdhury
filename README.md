@@ -1,12 +1,19 @@
-### Hi there 👋, my name is Shithi Chowdhury
-#### A passionate frontend developer and Graphics designer from Bangladesh
+<h1 align="center">Hi 👋, I'm Shithi Chowdhury</h1>
+<h3 align="center">A passionate frontend developer and Graphics designer from Bangladesh</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shithi-chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="shithi-chowdhury" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shithi-chowdhury" alt="shithi-chowdhury" /></a> </p>
 
 Currently, I am working at EIC as an IT marketing Intern. I am involved with two Research and Publications in Machine learning and deep learning. previously I worked at kore as a graphic designer.
 
+- 🌱 I’m currently learning **Laravel**
+
+- 💬 Ask me about **HTML, CSS, PHP**
+
+- 📫 How to reach me **shithi1111@gmail.com**
+
 Skills: PHP/C/C++/ HTML / CSS/ Adobe illustrator/ 
 
-- 🌱 I’m currently learning Laravel 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shithi-chowdhury)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shithichowdhury/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/peeppeepshithi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shithi_chowdhury12/)  
@@ -25,18 +32,6 @@ Skills: PHP/C/C++/ HTML / CSS/ Adobe illustrator/
 
 
 
-<h1 align="center">Hi 👋, I'm Shithi Chowdhury</h1>
-<h3 align="center">A passionate frontend developer and Graphics designer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shithi-chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="shithi-chowdhury" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shithi-chowdhury" alt="shithi-chowdhury" /></a> </p>
-
-- 🌱 I’m currently learning **Laravel**
-
-- 💬 Ask me about **HTML, CSS, PHP**
-
-- 📫 How to reach me **shithi1111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
