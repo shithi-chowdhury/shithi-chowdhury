@@ -3,7 +3,7 @@
 
 
 
-Currently, I am working at EIC as an IT marketing Intern. I am involved with two Research and Publications in Machine learning and deep learning. previously I worked at kore as a graphic designer.
+Currently, I am working at EIC as an IT marketing And Sales Officer. I am involved with two Research and Publications in Machine learning and deep learning. previously I worked at kore as a graphic designer.
 
 - 🎓 Studied BS in Computer Science and Engineering at **North South University**
 
