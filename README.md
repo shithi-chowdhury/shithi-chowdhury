@@ -1,19 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shithi Chowdhury</h1>
-<h3 align="center">A passionate frontend developer and Graphics designer from Bangladesh</h3>
+<h1 align="center">Hi, I'm Shithi Chowdhury</h1>
+<h3 align="center">I am currently pursuing my Master's in Information Technology with a major in Cybersecurity.</h3>
 
 
-
-Currently, I am working at EIC as an IT marketing And Sales Officer. I am involved with two Research and Publications in Machine learning and deep learning. previously I worked at kore as a graphic designer.
-
-- 🎓 Studied BS in Computer Science and Engineering at **North South University**
-
-- 🏠 Lives in **Dhaka, Bangladesh**
-
-- 🌱 I’m currently learning **Laravel**
-
-- 💬 Ask me about **HTML, CSS, PHP**
-
-- 📫 Contect me **shithi1111@gmail.com**
  
 
 
