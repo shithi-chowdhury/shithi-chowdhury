@@ -29,11 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shithi-chowdhury" alt="Top Langs">
 </p>
 
-<p align="center">
-  <img src="https://gpvc.arturio.dev/shithi-chowdhury" alt="Profile Views">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
 <!-- Keep your original tools block here -->
 <p align="left">
   <!-- Your existing icons block remains the same -->
